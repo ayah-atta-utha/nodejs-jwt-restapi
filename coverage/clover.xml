@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1730646533255" clover="3.2.0">
+  <project timestamp="1730646533255" name="All files">
+    <metrics statements="82" coveredstatements="80" conditionals="24" coveredconditionals="24" methods="21" coveredmethods="17" elements="127" coveredelements="121" complexity="0" loc="82" ncloc="82" packages="3" files="6" classes="6"/>
+    <package name="src">
+      <metrics statements="2" coveredstatements="2" conditionals="14" coveredconditionals="14" methods="0" coveredmethods="0"/>
+      <file name="config.ts" path="/home/andrian/Latihan-Coding/v0.2/src/config.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="14" coveredconditionals="14" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.entities">
+      <metrics statements="18" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="Category.ts" path="/home/andrian/Latihan-Coding/v0.2/src/entities/Category.ts">
+        <metrics statements="9" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+      <file name="News.ts" path="/home/andrian/Latihan-Coding/v0.2/src/entities/News.ts">
+        <metrics statements="9" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="62" coveredstatements="62" conditionals="10" coveredconditionals="10" methods="17" coveredmethods="17"/>
+      <file name="CategoryService.ts" path="/home/andrian/Latihan-Coding/v0.2/src/services/CategoryService.ts">
+        <metrics statements="18" coveredstatements="18" conditionals="3" coveredconditionals="3" methods="6" coveredmethods="6"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+      </file>
+      <file name="NewsService.ts" path="/home/andrian/Latihan-Coding/v0.2/src/services/NewsService.ts">
+        <metrics statements="21" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="9" count="9" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="29" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="39" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="47" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+      </file>
+      <file name="UserService.ts" path="/home/andrian/Latihan-Coding/v0.2/src/services/UserService.ts">
+        <metrics statements="23" coveredstatements="23" conditionals="3" coveredconditionals="3" methods="5" coveredmethods="5"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="32" count="7" type="stmt"/>
+        <line num="34" count="7" type="cond" truecount="1" falsecount="0"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="39" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="54" count="3" type="stmt"/>
+        <line num="55" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
